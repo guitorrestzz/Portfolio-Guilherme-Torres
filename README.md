@@ -1,8 +1,8 @@
 <h1 align="center">Portfólio</h1>
 
 <p align="center">
-  <a href="https://SEU-LINK-DE-PORTFOLIO.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Acessar%20Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://portfolio-guilherme-torres-gea3.onrender.com/)" alt="Acessar Portfólio">
+  <a href="https://portfolio-guilhermetorres.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Portfólio">
   </a>
 </p>
 
